@@ -1,5 +1,5 @@
 {
-  "name": "ionic",
+  "name": "ionic-sdk",
   "version": "1.0.0",
   "description": "Bower repository for [Ionic Framework](http://github.com/driftyco/ionic)",
   "main": "js/ionic.bundle.js",
