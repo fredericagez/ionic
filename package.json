@@ -1,5 +1,5 @@
 {
-  "name": "ionic-bower",
+  "name": "ionic",
   "version": "1.0.0",
   "description": "Bower repository for [Ionic Framework](http://github.com/driftyco/ionic)",
   "main": "js/ionic.bundle.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fredericagez/ionic-bower.git"
+    "url": "git+https://github.com/fredericagez/ionic.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/fredericagez/ionic-bower/issues"
+    "url": "https://github.com/fredericagez/ionic/issues"
   },
-  "homepage": "https://github.com/fredericagez/ionic-bower#readme"
+  "homepage": "https://github.com/fredericagez/ionic#readme"
 }
